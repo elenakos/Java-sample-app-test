@@ -6,6 +6,8 @@ testing/android/sample/app/src/main/res/layout
 testing/android/sample/app/src/main/java/org/example/sample
 /MainActivity.java
 ```
+![img.png](img.png)
+
 
 Espresso tests can be updated and executed in Android Studio and can be found here:
 `testing/android/sample/app/src/androidTest/java/org/example/sample
