@@ -35,7 +35,7 @@ public class MainActivityJTest {
     }
 
     @Test
-    public void verifyCheckboxCanBeClicked() {
+    public void verifyCheckboxCanBeChecked() {
         onView(withId(R.id.checkBox)).perform(click());
         onView(withId(R.id.checkBox)).check(matches(isChecked()));
     }
