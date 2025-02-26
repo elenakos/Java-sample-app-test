@@ -24,7 +24,7 @@ public class MainActivityJTest {
             new ActivityScenarioRule<>(MainActivity.class);
 
     @Test
-    public void verifyTestIsDisplayed() {
+    public void verifyTextIsDisplayed() {
         onView(withText("Hello World!")).check(matches(isDisplayed()));
     }
 
