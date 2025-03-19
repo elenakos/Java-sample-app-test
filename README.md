@@ -13,7 +13,7 @@ To add elements and actions to the application, open a project in Android Studio
 > testing/android/sample/app/src/androidTest/java/org/example/sample/MainActivityJTest.java
 ```
 
-This **[document](https://docs.google.com/document/d/1bGSjQnpqy4CGfz3PrDtDo8Oij3vwHSFAV0Z9daMaV3Q/edit?usp=drive_link)** outlines how to configure a project to run tests in Google Firebase Test Lab
+This **[post](https://elenakostrygina.wordpress.com/2025/03/17/how-to-run-tests-in-firebase-test-lab/)** outlines how to configure a project to run tests in Google Firebase Test Lab
 
 
 
